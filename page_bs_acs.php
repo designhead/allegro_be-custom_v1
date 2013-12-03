@@ -6,6 +6,8 @@ Template Name: BS - ACS
 
 <?php get_header(); ?>
 
+<!-- Lists the main page for Allegro Cloud Solutions -->
+
 <?php 
 	$pagename = get_query_var('pagename');
 	if ( !$pagename && $id > 0 ) {
