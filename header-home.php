@@ -26,9 +26,7 @@
 <body <?php body_class(); ?>>
 
 <div class="header">
-	
 	<div class="wrapper">
-		
 		<div class="logo"
 			<a href="
 				<?php if(ICL_LANGUAGE_CODE=='en'){ 
